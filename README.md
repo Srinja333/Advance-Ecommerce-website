@@ -1,2 +1,2 @@
-# Advance Ecommerce
+# Advance Ecommerce Website
 This was my first major MERN-Stack project. here I have used node.js and express.js as backend, react.js as frontend and mongo db as database. here user can sign up and sign in. user can sort items as per price and category. user can cart items. it has also admin dashboard. where admin can create, read, update and delete products. I have used Braintree sandbox (test version) for payment. for deployment I have used digital ocean, for domain I have used namecheap and cloudflare for protection. i have used sendgrid to send mail to admin as well as buyer about order. I am still adding new features to this website.
